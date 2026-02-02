@@ -1,2 +1,2 @@
 # microservice-poc
-Poc for async and sync call in microservice with docker
+Poc for async and sync call between microservice with docker
